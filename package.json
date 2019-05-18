@@ -1,20 +1,20 @@
 {
-  "name": "@cloc3/provaInstallazioneNpm",
+  "name": "@cloc3/prova-installazione-npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "provaInstallazioneNpm"
+    "test": "prova-installazione-npm"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloc3/provaInstallazioneNpm.git"
+    "url": "git+https://github.com/cloc3/prova-installazione-npm.git"
   },
   "author": "m",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cloc3/provaInstallazioneNpm/issues"
+    "url": "https://github.com/cloc3/prova-installazione-npm/issues"
   },
-  "homepage": "https://github.com/cloc3/provaInstallazioneNpm#readme",
+  "homepage": "https://github.com/cloc3/prova-installazione-npm#readme",
   "dependencies": {}
 }
