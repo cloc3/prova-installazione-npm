@@ -1,10 +1,11 @@
 {
   "name": "@cloc3/prova-installazione-npm",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "lancia un server su localhost:3000",
   "main": "index.js",
   "scripts": {
-    "test": "prova-installazione-npm"
+    "test": "/usr/bin/node index.js"
+		"lancio": "lancia.sh"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
     "url": "https://github.com/cloc3/prova-installazione-npm/issues"
   },
   "homepage": "https://github.com/cloc3/prova-installazione-npm#readme",
-  "dependencies": {}
+  "dependencies": {},
+	"publishConfig": {
+		"access": "public"
+	}
 }
